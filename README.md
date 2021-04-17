@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
+  <img alt="TaskCalculator" title="TaskCalculator" src="https://i.imgur.com/117yJ1F.png" width="300px" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
+  <img alt="dev.finances" src=".github/taskcalc.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+O JobsCalc é uma aplicação de estimativa de cálculo para projetos ou tarefas, onde é possível cadastrar e excluir tarefas, obtendo uma estimativa de custo de cada delas. Além disso, é possível calcular o valor da hora da pessoa que estará usando o sistema 💰
 
 ## 🔖 Layout
 
