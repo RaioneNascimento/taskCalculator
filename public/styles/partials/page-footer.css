@@ -1,0 +1,29 @@
+.page-footer {
+  width: 100vw;
+  position: absolute;
+  bottom: 2%;
+}
+
+.page-footer span {
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 0.8rem;
+  line-height: 1.625rem;
+
+  margin: 0 auto;
+
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} 
+
+.page-footer span a {
+  color: #ED145B;
+  text-decoration: none;
+}
+
+.page-footer span a:hover {
+  color: #D51251;
+  text-decoration: underline;
+}
