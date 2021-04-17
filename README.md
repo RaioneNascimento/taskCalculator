@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="TaskCalculator" title="TaskCalculator" src="https://i.imgur.com/117yJ1F.png" width="300px" />
+  <img alt="TaskCalculator" title="TaskCalculator" src="https://i.imgur.com/9qlc3Vx.png" width="300px" />
 </h1>
 
 <p align="center">
