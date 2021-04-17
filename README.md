@@ -1,12 +1,63 @@
+Task Calculator
+
 <h1 align="center">
   <img alt="TaskCalculator" title="TaskCalculator" src="https://i.imgur.com/9qlc3Vx.png" width="300px" />
 </h1>
+<br>
+
+<div align="center">
+
+ <!-- HTML -->
+  <a href="http://www.w3schools.com/tags/tag_doctype.asp" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-USED-%23ED145B">
+  </a>
+
+  <!-- CSS -->
+  <a href="http://devdocs.io/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-USED-%23ED145B">
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript%20-USED-%23ED145B">
+  </a>
+
+  <!-- Node.Js -->
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img alt="NodeJs" src="https://img.shields.io/badge/NodeJS%20-USED-%23ED145B">
+  </a>
+
+  <!-- EJS -->
+  <a href="https://ejs.co/" target="_blank">
+    <img alt="EJS" src="https://img.shields.io/badge/EJS%20-USED-%23ED145B">
+  </a>
+
+  <!-- Express -->
+  <a href="https://expressjs.com/pt-br/" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/Express%20-USED-%23ED145B">
+  </a>
+
+  <!-- SQLite -->
+  <a href="https://www.sqlite.org/docs.html" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite%20-USED-%23ED145B">
+  </a> 
+
+ <!-- RocketSeat -->
+  <a href="http://rocketseat.com.br" target="_blank">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+  </a>
+</div>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-aplicação-deployed">Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-utilitários">Utilitários</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-configurações-iniciais">Configurações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-iniciando-aplicação">Iniciando aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  <a href="#considerações-finais">Considerações Finais</a>
 </p>
 
 <p align="center">
@@ -33,13 +84,67 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - SQLite
 
+<br>
+
 ## 💻 Projeto
 
 O JobsCalc é uma aplicação de estimativa de cálculo para projetos ou tarefas, onde é possível cadastrar e excluir tarefas, obtendo uma estimativa de custo de cada delas. Além disso, é possível calcular o valor da hora da pessoa que estará usando o sistema 💰
 
-## 🔖 Layout
+<br>
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+## 👨🏽‍💻 Aplicação Deployed
+
+Clique aqui: 
+  <a href="http://taskcalculator.raionenascimento.com.br" target="_blank">
+    <img alt="TaskCalculator" src="https://img.shields.io/badge/UI%20Clone%20Tesla-%23ED145b">
+  </a>
+
+<br>
+
+## 🧰 Utilitários
+
+  - Editor: **[Visual Studio Code](http://code.visualstudio.com/download)**
+  - Protótipo: **[TaskCalculator](https://www.figma.com/file/xrDMjVK0usXwhzqN1WnE8b/Jobs-Planning-(Copy))** 
+  - Layout: **[Figma](https://figma.com)**
+  - Fontes: **[IBM Plex](https://fonts.google.com/specimen/IBM+Plex+Sans)**
+
+<br>
+
+### Configurações Iniciais
+
+
+Primeiro, você precisa ter o [NodeJS](https://nodejs.org/en/download/) instalado na sua máquina. 
+
+Se você estiver utilizando o **Linux** ou **MacOS**, você pode optar por instalar o **Node** através do gerênciador de versões através do [link](https://nodejs.org/en/download/package-manager/) para facilitar o processo de mudança da versão do **Node**, quando for necessário.
+
+Você pode optar também por utilizar o **yarn** no lugar do **npm**. Você pode instalar clicando nesse [yarn](https://yarnpkg.com/), ou através do [link](https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable).
+
+Instale as dependências contidas nos arquivos `package.json` que se encontram na raíz do repositório (para o gerenciamento de commits), no diretório do **server** e no diretório do **website**. Para instalar as dependências, basta abrir o terminal no diretório e digitar o comando:
+
+<br>
+
+### Instalação
+
+```sh
+# Instalando dependencias:
+$ cd /taskCalculator e depois execute o comando:
+$ npm install
+
+# ou
+
+$ yarn install
+```
+
+<br>
+
+### Iniciando aplicação
+
+```sh
+# Executando a aplicação web:
+$ yarn run dev ou npm run dev
+```
+
+<br>
 
 ## :memo: Licença
 
@@ -47,4 +152,34 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+## 🙏 Considerações finais
+
+Fica aqui o agradecimento ao Mayk Brito por sempre disponibilizar materiais de qualidade através da Rocketseat e nos mostrar que ***o aprendizado é contínuo e sempre haverá um próximo nível***.
+
+<div align="center">
+  <table style="width:100%">
+    <tr align="center">
+      <th><strong>Mayk Brito | Rocketseat</strong></th>
+    </tr>
+    <tr align="center">
+      <td>
+        <a href="https://github.com/maykbrito">
+          <img width="200" height="180" src="https://github.com/maykbrito.png">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align=center>
+  <strong>Instrutor:</strong>
+  <a href="https://github.com/maykbrito" target="_blank">Mayk Brito (Maykão)</a>
+</p>
+
+
+<p align=center>
+  <b>Gostou do projeto?</b> Me ajude deixando uma estrela para me insentivar ainda mais nos estudos 🤓
+</p>
+
+
+`made with 💜  by raionedeveloper © 2020`
