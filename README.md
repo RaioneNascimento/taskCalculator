@@ -110,7 +110,7 @@ Clique aqui:
 
 <br>
 
-### Configurações Iniciais
+## Configurações Iniciais
 
 
 Primeiro, você precisa ter o [NodeJS](https://nodejs.org/en/download/) instalado na sua máquina. 
@@ -123,7 +123,7 @@ Instale as dependências contidas nos arquivos `package.json` que se encontram n
 
 <br>
 
-### Instalação
+## Instalação
 
 ```sh
 # Instalando dependencias:
@@ -137,7 +137,7 @@ $ yarn install
 
 <br>
 
-### Iniciando aplicação
+## Iniciando aplicação
 
 ```sh
 # Executando a aplicação web:
