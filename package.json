@@ -6,12 +6,18 @@
   "scripts": {
     "dev": "nodemon ."
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raionenascimento/taskcalculator.git"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "RaioneNascimento",
+  "license": "MIT",
+  "homepage": "https://github.com/raionenascimento/taskcalculator#readme",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"

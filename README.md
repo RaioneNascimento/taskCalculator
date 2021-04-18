@@ -151,7 +151,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-## 🙏 Considerações finais
+## 🙏 Considerações
 
 Fica aqui o agradecimento ao Mayk Brito por sempre disponibilizar materiais de qualidade através da Rocketseat e nos mostrar que ***o aprendizado é contínuo e sempre haverá um próximo nível***.
 
