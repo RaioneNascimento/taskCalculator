@@ -1,14 +1,14 @@
 const express = require("express");
 const server = express();
 const routes = require("./routes")
-// const path = require("path");
+const path = require("path");
 const port = 3000
 
 //usando templete engine
 server.set('view engine', 'ejs')
 
 // __dirname retorna o diretório onde o arquivo está
-// server.set('views', path.join(__dirname,'views'))
+server.set('views', path.join(__dirname, 'views'))
 
 //habilitar arquivos statics
 server.use(express.static("public"))
