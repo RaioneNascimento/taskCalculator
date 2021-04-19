@@ -51,7 +51,6 @@ Task Calculator
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aplicação-deployed">Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-utilitários">Utilitários</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#configurações">Configurações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -89,15 +88,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O JobsCalc é uma aplicação de estimativa de cálculo para projetos ou tarefas, onde é possível cadastrar e excluir tarefas, obtendo uma estimativa de custo de cada delas. Além disso, é possível calcular o valor da hora da pessoa que estará usando o sistema 💰
-
-<br>
-
-## 👨🏽‍💻 Aplicação Deployed
-
-Clique aqui: 
-  <a href="http://taskcalculator.raionenascimento.com.br" target="_blank">
-    <img alt="TaskCalculator" src="https://img.shields.io/badge/UI%20Clone%20Tesla-%23ED145b">
-  </a>
 
 <br>
 
