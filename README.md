@@ -154,8 +154,6 @@ Fica aqui o agradecimento ao Mayk Brito e a Jakeliny por sempre disponibilizar m
         <a href="https://github.com/maykbrito">
           <img width="200" height="180" src="https://github.com/maykbrito.png">
         </a>
-      </td>
-      <td>
         <a href="https://github.com/jakeliny">
           <img width="200" height="180" src="https://github.com/jakeliny.png">
         </a>
