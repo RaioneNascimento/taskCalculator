@@ -1,0 +1,27 @@
+.dark-mode:root {
+  --color-background: "#3d4147",
+  --color-background: "#141418",
+
+  --color-primary: "#141418",
+  --color-secondary: "#4A96F3",
+  --color-secondary-hover: "#2C85F2",
+
+  --color-input-background: "#070703",
+  --color-button-text: "#000000",
+  --color-hairline-in-dark: "#b0b0b0",
+  --color-hairline-in-light: "#1e1e1e",
+
+  --color-card-background: var(--color-text);
+  --color-card-title: #5A5A66;
+  --color-card-label: #BFBFCC;
+  --color-card-content: #787880;
+  
+  --color-cancel: #E1E3E5;
+  --color-delete: #EB3B35; 
+  --color-save: #36B336;
+  
+  --color-badge-progress-text: var(--color-save);
+  --color-badge-progress-background: #E8F8E8;
+  --color-badge-done-text: var(--color-delete);
+  --color-badge-done-background:#FAECEB;
+};

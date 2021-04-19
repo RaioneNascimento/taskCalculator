@@ -34,7 +34,6 @@
   --color-badge-done-background:#FAECEB;
 
   --color-header-inner-title: var(--color-card-label)
-
 }
 
 /* user-agent font-size is 16px, let's make it responsive */
