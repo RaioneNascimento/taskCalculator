@@ -6,7 +6,6 @@ Task Calculator
 <br>
 
 <div align="center">
-
  <!-- HTML -->
   <a href="http://www.w3schools.com/tags/tag_doctype.asp" target="_blank">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-USED-%23ED145B">
@@ -54,7 +53,7 @@ Task Calculator
   <a href="#-utilitários">Utilitários</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#configurações">Configurações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iniciando">Iniciando aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iniciando">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-considerações">Considerações</a>
 </p>
@@ -126,7 +125,7 @@ $ yarn install
 
 <br>
 
-## Iniciando aplicação
+## Iniciando
 
 ```sh
 # Executando a aplicação web:
@@ -143,12 +142,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ## 🙏 Considerações
 
-Fica aqui o agradecimento ao Mayk Brito por sempre disponibilizar materiais de qualidade através da Rocketseat e nos mostrar que ***o aprendizado é contínuo e sempre haverá um próximo nível***.
+Fica aqui o agradecimento ao Mayk Brito e a Jakeliny por sempre disponibilizar materiais de qualidade através da Rocketseat e nos mostrar que ***o aprendizado é contínuo e sempre haverá um próximo nível***.
 
 <div align="center">
   <table style="width:100%">
     <tr align="center">
-      <th><strong>Mayk Brito | Rocketseat</strong></th>
+      <th><strong>Rocketseat | Maratona Discovery #2</strong></th>
     </tr>
     <tr align="center">
       <td>
@@ -156,13 +155,20 @@ Fica aqui o agradecimento ao Mayk Brito por sempre disponibilizar materiais de q
           <img width="200" height="180" src="https://github.com/maykbrito.png">
         </a>
       </td>
+      <td>
+        <a href="https://github.com/jakeliny">
+          <img width="200" height="180" src="https://github.com/jakeliny.png">
+        </a>
+      </td>
     </tr>
   </table>
 </div>
 
 <p align=center>
-  <strong>Instrutor:</strong>
+  <strong>Instrutores:</strong>
   <a href="https://github.com/maykbrito" target="_blank">Mayk Brito (Maykão)</a>
+   |
+  <a href="https://github.com/jakeliny" target="_blank">Jakeliny</a>
 </p>
 
 
