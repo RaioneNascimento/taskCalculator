@@ -171,7 +171,7 @@ Fica aqui o agradecimento ao Mayk Brito e a Jakeliny por sempre disponibilizar m
 
 
 <p align=center>
-  <b>Gostou do projeto?</b> Me ajude deixando uma estrela para me insentivar ainda mais nos estudos 🤓
+  <b>Gostou do projeto?</b> Me ajude deixando uma estrela para me incentivar ainda mais nos estudos 🤓
 </p>
 
 
